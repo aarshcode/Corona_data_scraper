@@ -141,3 +141,4 @@ cython_debug/
 .vscode
 venv
 .DS_Store
+corona_data_scraper_venv
