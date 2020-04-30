@@ -3,7 +3,7 @@ A python progrom to get data of corona virus cases from Indian government websit
 
 Source : https://www.mohfw.gov.in
 
-First you need to clpne this repository to your local machine.
+First you need to clone this repository to your local machine.
 To use this program you need to run command 
 "pip install -r requirements.txt"
 inside this the Corona_data_scraper directory.
